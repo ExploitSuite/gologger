@@ -4,8 +4,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/gologger/writer"
+	"github.com/ExploitSuite/gologger"
+	"github.com/ExploitSuite/gologger/writer"
 )
 
 func main() {

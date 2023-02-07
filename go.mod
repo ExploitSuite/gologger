@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/gologger
+module github.com/ExploitSuite/gologger
 
 go 1.14
 

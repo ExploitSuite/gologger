@@ -1,7 +1,7 @@
 package writer
 
 import (
-	"github.com/projectdiscovery/gologger/levels"
+	"github.com/ExploitSuite/gologger/levels"
 )
 
 // Writer type writes data to an output type.

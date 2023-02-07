@@ -3,8 +3,8 @@ package main
 import (
 	"strconv"
 
-	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/gologger/levels"
+	"github.com/ExploitSuite/gologger"
+	"github.com/ExploitSuite/gologger/levels"
 )
 
 func main() {

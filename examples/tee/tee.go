@@ -4,8 +4,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/gologger/formatter"
+	"github.com/ExploitSuite/gologger"
+	"github.com/ExploitSuite/gologger/formatter"
 )
 
 func main() {

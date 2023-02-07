@@ -10,8 +10,8 @@ package main
 import (
 	"strconv"
 
-	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/gologger/levels"
+	"github.com/ExploitSuite/gologger"
+	"github.com/ExploitSuite/gologger/levels"
 )
 
 func main() {
@@ -28,4 +28,4 @@ func main() {
 }
 ```
 
-gologger is made with 🖤 by the [projectdiscovery](https://projectdiscovery.io) team.
+gologger is made with 🖤 by the [ExploitSuite](https://ExploitSuite.io) team.

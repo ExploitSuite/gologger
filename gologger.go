@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/projectdiscovery/gologger/formatter"
-	"github.com/projectdiscovery/gologger/levels"
-	"github.com/projectdiscovery/gologger/writer"
+	"github.com/ExploitSuite/gologger/formatter"
+	"github.com/ExploitSuite/gologger/levels"
+	"github.com/ExploitSuite/gologger/writer"
 )
 
 var (
